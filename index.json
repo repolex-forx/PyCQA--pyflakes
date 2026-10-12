@@ -1,0 +1,11 @@
+{
+  "org": "PyCQA",
+  "repo": "pyflakes",
+  "versions": [
+    {
+      "commit": "de74d28a5fa2fcacbe39710a735d5ec714942a53",
+      "tag": "",
+      "parsed_at": "2026-10-12T22:42:04.155855+00:00"
+    }
+  ]
+}
